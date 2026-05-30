@@ -56,7 +56,7 @@ project-manager/
 └── README.md
 ```
 
-## ⚙️ Local Setup
+##  Local Setup
 
 ### Clone Repository
 
